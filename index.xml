@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🌱樂の花园</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🌱樂の花园</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title> 🌿生活</title>
+    <link>https://quartz.jzhao.xyz/life/</link>
+    <guid>https://quartz.jzhao.xyz/life/</guid>
+    <description>时间在羊毛毯上，打了个温柔的盹。.</description>
+    <pubDate>Sat, 26 Jul 2025 11:07:55 GMT</pubDate>
+  </item><item>
+    <title>生活中遇到的坑</title>
+    <link>https://quartz.jzhao.xyz/life/%E7%94%9F%E6%B4%BB%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91</link>
+    <guid>https://quartz.jzhao.xyz/life/%E7%94%9F%E6%B4%BB%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91</guid>
+    <description> 房租可以谈的，中介费可以和房东一人一半，最好选择押一付一。水费4 水费0.7 已经很便宜了。找房子的事情可以不用着急的，可以慢慢来的。 电脑哪些接口支持独显，要确定好，显示器一般都是只支持HDMI2.0和DP1.4，笔记本一般是HDMI2.1，也只有这个支持独显输出，HDMI2.0最多支持2K144Hz。所以买的时候一定要注意。 自己手动拆开空调，去清洗空调的过滤网，需要什么工具呢，我碰到的空调不需要，直接可以抓着下面直接打开。 江苏25年暑假的时候每天早上九点关注地方本地宝发送电影，可以30优惠看电影，很不错，emmmm，好像每个月只能用一次，我明天再去试试看。 预约专家号要提前， 异地就...</description>
+    <pubDate>Sat, 26 Jul 2025 11:07:55 GMT</pubDate>
+  </item><item>
+    <title>🍳做饭指南</title>
+    <link>https://quartz.jzhao.xyz/life/%F0%9F%8D%B3%E5%81%9A%E9%A5%AD%E6%8C%87%E5%8D%97</link>
+    <guid>https://quartz.jzhao.xyz/life/%F0%9F%8D%B3%E5%81%9A%E9%A5%AD%E6%8C%87%E5%8D%97</guid>
+    <description>以后再说吧，近两年没空，但是一定会学的，25/7/12 How To Cook 食用手册 .</description>
+    <pubDate>Sat, 26 Jul 2025 11:07:55 GMT</pubDate>
+  </item><item>
+    <title>🧶杂物</title>
+    <link>https://quartz.jzhao.xyz/misc/</link>
+    <guid>https://quartz.jzhao.xyz/misc/</guid>
+    <description>所有沉默的尘埃，开始轻轻歌唱。.</description>
+    <pubDate>Sat, 26 Jul 2025 11:07:55 GMT</pubDate>
+  </item><item>
+    <title>工作导航</title>
+    <link>https://quartz.jzhao.xyz/recent</link>
+    <guid>https://quartz.jzhao.xyz/recent</guid>
+    <description> 常用代码小记 工作记录 25-7 部署代码小记 .</description>
+    <pubDate>Sat, 26 Jul 2025 11:07:55 GMT</pubDate>
+  </item><item>
+    <title>Bug错题本</title>
+    <link>https://quartz.jzhao.xyz/tech/Bug%E9%94%99%E9%A2%98%E6%9C%AC</link>
+    <guid>https://quartz.jzhao.xyz/tech/Bug%E9%94%99%E9%A2%98%E6%9C%AC</guid>
+    <description> Cannot connect to the Docker daemon at unix:///var/run/docker.sock.</description>
+    <pubDate>Sat, 26 Jul 2025 11:07:55 GMT</pubDate>
+  </item><item>
+    <title>WMS仓库管理系统</title>
+    <link>https://quartz.jzhao.xyz/tech/WMS%E4%BB%93%E5%BA%93%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F</link>
+    <guid>https://quartz.jzhao.xyz/tech/WMS%E4%BB%93%E5%BA%93%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F</guid>
+    <description></description>
+    <pubDate>Sat, 26 Jul 2025 11:07:55 GMT</pubDate>
+  </item><item>
+    <title>💻技术</title>
+    <link>https://quartz.jzhao.xyz/tech/</link>
+    <guid>https://quartz.jzhao.xyz/tech/</guid>
+    <description>一行代码，便是一个宇宙的呼吸。.</description>
+    <pubDate>Sat, 26 Jul 2025 11:07:55 GMT</pubDate>
+  </item><item>
+    <title>学习TODO</title>
+    <link>https://quartz.jzhao.xyz/tech/%E5%AD%A6%E4%B9%A0TODO</link>
+    <guid>https://quartz.jzhao.xyz/tech/%E5%AD%A6%E4%B9%A0TODO</guid>
+    <description>第一遍学习；看视频和文档细则，知道本章节是在干啥，之后可以下载个IDEA 插件 Sequence Diagram 通过任意个类和方法查看代码的流程。好接下来把工程代码在 IDEA 右下角切换到对应的代码分支上，学习这个章节的分支代码，并进行调试和验证。之后创建个工程，开始对照着编写，让自己编写的代码可以和课程代码一样的预期结果。直至完成全部内容。不要只是复制，记得有些核心流程，要跟着敲。 第二遍学习；扩展，这个时候你已经跑通了所有代码，也知道每个模块是做什么的了。接下来要把这份工程结构、架构设计、代码实现、整体思路，转换为你的。所以你可以基于目前的工程做一些扩展功能，比如把抽奖的初始概率数据放...</description>
+    <pubDate>Sat, 26 Jul 2025 11:07:55 GMT</pubDate>
+  </item><item>
+    <title>常用代码小记</title>
+    <link>https://quartz.jzhao.xyz/tech/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81%E5%B0%8F%E8%AE%B0</link>
+    <guid>https://quartz.jzhao.xyz/tech/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81%E5%B0%8F%E8%AE%B0</guid>
+    <description>Python独立环境中的依赖安装 安装一个UV pip install uv uv venv 创建一个虚拟环境 Bash&gt; source .venv/Scripts/activate 激活虚拟环境 Windows&gt;.venv\\Scripts\\Activate.ps1 Bash&gt; which python 检查虚拟环境是否激活 Windwos&gt;Get-Command python uv pip install -r requirements.txt -i &lt;pypi.tuna.tsinghua.edu.cn/simple从&gt; requirements.tx...</description>
+    <pubDate>Sat, 26 Jul 2025 11:07:55 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
