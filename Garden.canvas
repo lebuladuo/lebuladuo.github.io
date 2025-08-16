@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"83b8d25f684040ec","type":"link","url":"https://he9.vercel.app/","x":-960,"y":-1040,"width":2440,"height":1440},
+		{"id":"09e789f5012c33dd","type":"text","text":"https://lebuladuo.github.io\nhttps://he9.vercel.app/","x":-960,"y":400,"width":2440,"height":77}
+	],
+	"edges":[]
+}
