@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: 表格视图
+    filters:
+      and:
+        - file.tags.contains("weekly")
+  - type: cards
+    name: 卡片视图
+    filters:
+      and:
+        - file.tags.contains("weekly")
